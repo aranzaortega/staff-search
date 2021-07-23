@@ -1,0 +1,11 @@
+.search-box-result{
+    width: 100%;
+}
+.search-box-result-item{
+    background-color: gainsboro;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 1rem;
+    margin: 1rem;
+}
+
